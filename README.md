@@ -48,7 +48,7 @@ A comprehensive test automation framework built with WebDriverIO supporting Desk
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Technical-Test-Automation.git
+git clone https://github.com/YOUR_USERNAME/LexisNexisTest.git
 cd LexisNexisTest
 ```
 
@@ -257,4 +257,5 @@ For questions or issues, please:
 ---
 
 **Happy Testing! 🎉**
+
 
